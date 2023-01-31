@@ -1,0 +1,8 @@
+C:\Users\Devloper\source\repos\AppWS\AppWS\obj\Debug\AppWS.csproj.AssemblyReference.cache
+C:\Users\Devloper\source\repos\AppWS\AppWS\obj\Debug\AppWS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Devloper\source\repos\AppWS\AppWS\obj\Debug\AppWS.csproj.CoreCompileInputs.cache
+C:\Users\Devloper\source\repos\AppWS\AppWS\bin\Debug\AppWS.exe.config
+C:\Users\Devloper\source\repos\AppWS\AppWS\bin\Debug\AppWS.exe
+C:\Users\Devloper\source\repos\AppWS\AppWS\bin\Debug\AppWS.pdb
+C:\Users\Devloper\source\repos\AppWS\AppWS\obj\Debug\AppWS.exe
+C:\Users\Devloper\source\repos\AppWS\AppWS\obj\Debug\AppWS.pdb
